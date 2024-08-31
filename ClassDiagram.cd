@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Password_Manager.FormEmailConfirm">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAIQACAAABAgAACAAgASAgAAABACAAAAAIAEQCA=</HashCode>
+      <FileName>Auth\FormEmailConfirm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.FormLogin">
+    <Position X="3.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABQACAAABAAAACAEAACAAAIAAAQAEAAAAABQAA=</HashCode>
+      <FileName>Auth\FormLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.edit_card">
+    <Position X="21" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACABBAgCAAABAAAACAAAACAgAAgAAEAAAAAAAAAIA=</HashCode>
+      <FileName>EditForms\edit_card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.edit_password">
+    <Position X="22.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABBAAACQAABAAAACAABACAAAAoAAAAAQAAAgAAAA=</HashCode>
+      <FileName>EditForms\edit_password.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.FormMain">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAggAIAICJCAAAkIADAAAACAAAACAAAAAQAJQAIASA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.cards_form">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAABABABCBADgCQYAAAmBAAEBpAFAAAIA=</HashCode>
+      <FileName>Forms\cards_form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.elements_form">
+    <Position X="15" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACCEABAAAACAAACKAAAAAABAAAIAAAAAACA=</HashCode>
+      <FileName>Forms\elements_form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.gen_form">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACgAEBAQAACAAACCAAAABgAAAEAAAAAAAAA=</HashCode>
+      <FileName>Forms\gen_form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.logins_form">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAAABgoACAAABAAAICACAASIAAAACAEAIFAAgACAAg=</HashCode>
+      <FileName>Forms\logins_form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.notes_form">
+    <Position X="16.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAkAAAAACSAADBAgCgCEQAADAAgABAABAAAEAAAAQAA=</HashCode>
+      <FileName>Forms\notes_form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.passwords_form">
+    <Position X="13.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCABQJAAACACABEACFiAAgCCEAAAABAAAQEAABACAAQ=</HashCode>
+      <FileName>Forms\passwords_form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.EditForms.edit_login">
+    <Position X="21" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAIAACAAABAAAACAAAACAAAAgAAIAAQAAAQCAAA=</HashCode>
+      <FileName>EditForms\edit_login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Password_Manager.EditForms.edit_note">
+    <Position X="22.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAgBAAAACAAAACAAAAgAACAAAAAEAMAAA=</HashCode>
+      <FileName>EditForms\edit_note.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="1.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
